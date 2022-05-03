@@ -1,6 +1,6 @@
 Package: ngboostForecast
 Title: Probabilistic Time Series Forecasting
-Version: 0.0.2
+Version: 0.1.0
 Authors@R: 
     person(given = "Resul",
            family = "Akay",
@@ -23,8 +23,8 @@ Config/reticulate: list( packages = list( list(package =
         pip = TRUE)) )
 Depends: R (>= 3.6), reticulate (>= 1.20)
 NeedsCompilation: no
-Packaged: 2022-02-27 21:27:56 UTC; akayr
+Packaged: 2022-05-03 07:51:31 UTC; akayr
 Author: Resul Akay [aut, cre]
 Maintainer: Resul Akay <resulakay1@gmail.com>
 Repository: CRAN
-Date/Publication: 2022-03-01 21:10:06 UTC
+Date/Publication: 2022-05-03 08:10:01 UTC
